@@ -22,6 +22,8 @@ It combines **SerpApi's YouTube Transcript, Scholar, Finance, and Search engines
   Your browser does not support the video tag. You can <a href="./claimlens-demo-walkthrough.mp4">download and watch the demo video directly here</a>.
 </video>
 
+Public Link : https://drive.google.com/file/d/1WNR4BPyXSg2h_jFFviCxQ_tRJbTeHBeS/view?usp=sharing
+
 ---
 
 ## 1. Project Overview

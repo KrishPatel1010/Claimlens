@@ -1,0 +1,17 @@
+{
+  "search_metadata": {
+    "id": "serp_demo_finance_f01_01",
+    "status": "Success",
+    "engine": "google_finance",
+    "query": "stock picking active retail outperformance SPIVA scorecard",
+    "created_at": "2026-09-25T08:35:10.000Z"
+  },
+  "search_parameters": {
+    "engine": "google_finance",
+    "q": "SOXX:NASDAQ"
+  },
+  "markets": {
+    "summary": "Active Stock Picking vs S&P 500 Benchmark Comparison",
+    "disclaimer": "No financial regulator or market filing supports consistent multi-bagger outperformance for active retail stock picking; S&P SPIVA scorecards show over 90% of active managers underperform index benchmarks."
+  }
+}
